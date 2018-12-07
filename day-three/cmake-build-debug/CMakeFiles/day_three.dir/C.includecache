@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ben/Documents/adventofcode2018/day-three/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+regex.h
+-
+sys/types.h
+-
+
