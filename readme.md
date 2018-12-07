@@ -19,11 +19,11 @@ Day 10: Go
 Day 11: Bash  
 Day 12: F#  
 Day 13: Swift  
-Day 14: Fortran  
+Day 14: Pony  
 Day 15: OCaml  
 Day 16: Lisp  
-Day 17: Assembly  
-Day 18: Erlang  
+Day 17: Perl  
+Day 18: Elixir  
 Day 19: Prolog  
 Day 20: Scala  
 Day 21: Julia  
