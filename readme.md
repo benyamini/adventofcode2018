@@ -24,7 +24,7 @@ Day 15: OCaml
 Day 16: Lisp  
 Day 17: Perl  
 Day 18: Elixir  
-Day 19: Prolog  
+Day 19: Nim  
 Day 20: Scala  
 Day 21: Julia  
 Day 22: Clojure  
