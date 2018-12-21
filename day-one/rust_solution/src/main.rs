@@ -18,7 +18,7 @@ fn main() {
 
 fn parse_input(filename: String) -> String {
     fs::read_to_string(filename)
-        .unwrap()
+        .expect("error reading file\n")
 }
 
 fn solve(contents: String) -> (Option<i32>, Option<i32>) {
