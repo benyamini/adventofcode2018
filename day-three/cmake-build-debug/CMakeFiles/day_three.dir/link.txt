@@ -1,1 +1,0 @@
-/usr/bin/cc -g   CMakeFiles/day_three.dir/main.c.o  -o day_three 

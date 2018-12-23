@@ -1,3 +1,0 @@
-/home/ben/Documents/adventofcode2018/day-three/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/ben/Documents/adventofcode2018/day-three/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/ben/Documents/adventofcode2018/day-three/cmake-build-debug/CMakeFiles/day_three.dir
