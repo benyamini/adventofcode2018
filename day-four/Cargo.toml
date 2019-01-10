@@ -1,0 +1,9 @@
+[package]
+name = "day-four"
+version = "0.1.0"
+authors = ["Ben McGarvey <ben@sidekicker.com.au>"]
+edition = "2018"
+
+[dependencies]
+regex = "1"
+chrono = "0.4"
